@@ -181,7 +181,7 @@ This project is divided among 5 team members:
 | -------- | ---------------------------------------- | -------------- |
 | Andy Su  | Data Loading & EDA                       | ✅ Complete    |
 | Andy Su  | Preprocessing & Feature Engineering      | ✅ Complete    |
-| Person 3 | Random Forest & AdaBoost Models          | 🔄 In Progress |
+| George Barrone | Random Forest & AdaBoost Models    | ✅ Complete    |
 | Person 4 | Logistic Regression & Imbalance Handling | 🔄 In Progress |
 | Person 5 | Ensemble Integration & Final Predictions | ⏳ Pending     |
 
